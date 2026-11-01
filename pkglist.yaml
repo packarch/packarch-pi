@@ -42,3 +42,4 @@
   packages:
     - vlc
     - smplayer smplayer-skins smplayer-themes
+    - nounours-player

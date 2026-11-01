@@ -20,3 +20,4 @@ system-config-printer: "Outil de configuration des imprimantes CUPS et applet d'
 orca: "Lecteur d'écran pour les personnes aveugles ou malvoyantes"
 vlc: "Lecteur et framework multimédia libre et multiplateforme"
 smplayer: "Lecteur multimédia avec codecs intégrés, lit pratiquement tous les formats audio et vidéo"
+nounours-player: "Lecteur multimédia simple basé sur libmpv"
