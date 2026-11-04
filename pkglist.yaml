@@ -10,6 +10,7 @@
 - name: "Jeux"
   packages:
     - steam
+    - lutris
     - bombicat
 
 - name: "Graphisme"
