@@ -8,6 +8,7 @@ rustup: "Installateur de la toolchain Rust (la toolchain stable est activée à 
 steam: "Plateforme de distribution de jeux de Valve"
 lutris: "Plateforme de jeux : installe et lance des jeux Windows (Wine) et d'autres systèmes"
 bombicat: "Un démineur avec des chats, écrit en Rust avec egui"
+packarch-spider: "Jeux de patience : Spider, FreeCell, Klondike, Golf, Yukon… avec outil de résolution"
 gimp: "Programme de manipulation d'images GNU"
 filezilla: "Client FTP, FTPS et SFTP rapide et fiable"
 mkvtoolnix-gui: "Outils pour créer, modifier et inspecter des fichiers Matroska"

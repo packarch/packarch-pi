@@ -12,6 +12,7 @@
     - steam
     - lutris
     - bombicat
+    - packarch-spider
 
 - name: "Graphisme"
   packages:
